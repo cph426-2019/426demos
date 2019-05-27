@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Gallery</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="gallery" class="gallery">
+            <ul class="gallery__master">
+            </ul>
+            <template class="gallery__thumb_template">
+                <li class="gallery__thumb">
+                    <div class="gallery__thumb-img-wrap">
+                        <img class="gallery__thumb-img" />
+                    </div>
+                    <span class="gallery__thumb-label"></span>
+                </li>
+            </template>
+            <div class="gallery__detail">
+                <div class="gallery__detail-img-wrap">
+                    <img class="gallery__detail-img" style="background:black" ></img>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./main.tsx"></script>
+</body>
+
+</html>
