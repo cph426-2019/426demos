@@ -1,0 +1,15 @@
+{
+  "name": "03-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-plugin-static-files-copy": "^2.1.1",
+    "typescript": "^3.4.5"
+  }
+}
