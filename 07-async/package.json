@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "parcel-plugin-static-files-copy": "^2.1.1",
+    "typescript": "^3.4.5"
+  },
+  "dependencies": {
+    "introcs": "^0.8.12"
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "src": "a.jpg",
+    "thumbSrc": "a-thumb.jpg"
+  },
+  {
+    "src": "b.jpg",
+    "thumbSrc": "b-thumb.jpg"
+  }
+]
